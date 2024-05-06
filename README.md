@@ -9,7 +9,7 @@ Implementing various varieties of ML Algorithms using popular ML libraries <br>
 | Face Emotion Recognition | MobileNetV2 | | incomplete 🔴 |
 | Fake News Prediction | LogisticRegression | | | 
 | Graduate Admission Prediction | LinearRegression | |
-| Human activity recognition | Neural Network (562, 64, 64, 6) | |
+| Human activity recognition | Neural Network <br>(562, 64, 64, 6) | |
 | Medical Insurance Cost Prediction | LinearRegression | |
-| Telco Customer Churn | Neural Network (22, 64, 64, 1) | | cleanup code 🟡| 
+| Telco Customer Churn | Neural Network <br>(22, 64, 64, 1) | | cleanup code 🟡| 
 | Customer Segmentation | KMeans | | file not added 🔴|
